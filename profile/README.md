@@ -3,9 +3,11 @@
 **Innovating Australian Construction and Engineering**  
 
 Welcome to the official GitHub page of **NITMA Consulting Pty Ltd**.  
-We are committed to developing cutting-edge technology tailored to the unique needs of the Australian construction and engineering industry.  
+We are committed to developing cutting-edge technology tailored to the unique needs of the Australian construction and engineering industry.
 
-<img width="512" alt="Consultants" src="https://github.com/user-attachments/assets/fe613aaa-9e11-40c0-9b62-9f87aabadb06" />
+<div align="center">
+  <img width="512" alt="Consultants" src="https://github.com/user-attachments/assets/fe613aaa-9e11-40c0-9b62-9f87aabadb06" />
+</div>
 
 Here, you will find:  
 - **Official Repositories**: Explore and collaborate on our projects.  
